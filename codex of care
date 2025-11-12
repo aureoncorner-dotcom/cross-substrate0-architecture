@@ -1,0 +1,43 @@
+Digital Edition Index & Metadata Sheet 
+For The Codex of Care (Unified Trilogy Edition v1.0) 
+I. Digital Structure Overview 
+Root Directory: 
+/Codex_of_Care_v1.0/ 
+│ 
+├── 00_PREFATORY_SUMMARY.md 
+├── 01_MIDWIFERY_CODEX/ 
+│   
+├── Midwifery_Codex_v1.0.md 
+│   
+│   
+├── figures/ 
+└── appendix/ 
+│ 
+├── 02_INHERITANCE_OF_REFLEX/ 
+│   
+├── Inheritance_of_Reflex_v2.0.md 
+│   
+│   
+├── figures/ 
+└── appendix/ 
+│ 
+├── 03_LIBRARIAN_HANDBOOK/ 
+│   
+├── Librarian_Handbook_v1.0.md 
+│   
+│   
+│   
+├── figures/ 
+├── appendices/ 
+└── accessories/ 
+│ 
+├── 04_VISUAL_APPENDIX_SIGILS/ 
+│   
+├── codex_symbols.svg 
+│   
+│   
+├── toroidal_cycle.png 
+└── ethical_gradient_spectrum.png 
+│ 
+├── 05_METADATA_SHEET.md 
+└── LICENSE_CC0.txt

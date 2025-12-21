@@ -1,3 +1,13 @@
+# Archived
+
+This repository is archived.
+Content has been migrated to:
+https://github.com/USERNAME/cooperative-systems
+
+Use that repository for current CC0 material.
+
+
+
 # cross-substrate0-architecture
 A unified CC0 library of the Cross-Substrate Architecture: Cosmic Time, Resonance, the Codex of Care, the Abundance Engine, WAT Systems, and the Cross-Substrate Discovery Method. A complete open framework for collaborative intelligence, regenerative design, and harmonic systems across substrates.
 ---
